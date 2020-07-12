@@ -1,0 +1,4 @@
+# gitignore for uchip-mmd-register-tool
+
+# compiled mmd binary:
+mmd
