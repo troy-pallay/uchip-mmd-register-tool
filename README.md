@@ -20,7 +20,7 @@ You will then be asked to input the number of lines in "mmd_data.txt" After ente
 
 ## To-Do
 
-*Separate main into more easily understood functions and consolidate repetitive code into loops
-*Allow user to specify port when performing mmd reads and writes
-*Add capability to translate mmd reads
-*Add capability to translate standard register reads and writes
+* Separate main into more easily understood functions and consolidate repetitive code into loops
+* Allow user to specify port when performing mmd reads and writes
+* Add capability to translate mmd reads
+* Add capability to translate standard register reads and writes
